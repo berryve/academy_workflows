@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "735848598499",
+    "project_id": "academyworkflows",
+    "storage_bucket": "academyworkflows.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:735848598499:android:78dcbcd088def8dcd12ed6",
+        "android_client_info": {
+          "package_name": "academy.workshop.workflows"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "735848598499-vm6lgalldj2aa4464m6020f9isjdc39m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2Z6Pq06qutmGIk1wIek-sBoROoSqMMaY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "735848598499-vm6lgalldj2aa4464m6020f9isjdc39m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
